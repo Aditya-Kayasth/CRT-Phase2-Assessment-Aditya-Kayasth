@@ -1,0 +1,43 @@
+﻿# Root ignore file for E:\TRAINING training repository
+
+# IDE/editor files
+*.iml
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Java / Maven build outputs
+target/
+**/target/
+*.class
+*.log
+*.tmp
+*.cache
+
+# Node / frontend outputs and dependencies
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+.pnpm-debug.log*
+/dist/
+/build/
+.vite/
+.cache/
+.eslintcache
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Generated workspace files
+out/
+
+# Maven wrapper jar should not be uploaded as heavy dependency
+**/.mvn/wrapper/maven-wrapper.jar
