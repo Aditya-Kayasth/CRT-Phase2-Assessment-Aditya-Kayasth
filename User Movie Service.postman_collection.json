@@ -1,0 +1,48 @@
+{
+  "info": {
+    "_postman_id": "175af139-1b05-41ba-9a87-177d66a88a60",
+    "name": "User Movie Service",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "55023134",
+    "_collection_link": "https://go.postman.co/collection/55023134-175af139-1b05-41ba-9a87-177d66a88a60?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Movie Service",
+      "item": [
+        {
+          "name": "Register Movie User",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "Add Movie to User's List",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "Get All User Movies",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "Delete a Movie",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}
