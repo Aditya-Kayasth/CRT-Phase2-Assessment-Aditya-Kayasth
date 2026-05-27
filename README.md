@@ -43,6 +43,8 @@ Around Day 7 the original trainer had to leave due to a personal emergency, and 
 
 ## Important files and folders
 
+Use these direct folder links to open the most important training projects quickly.
+
 - [D1/CRUD_EMP](D1/CRUD_EMP) — CRUD Java/Maven example
 - [D2/P1/SpringiocDemo](D2/P1/SpringiocDemo) — Spring IOC demo
 - [D2/P2/BeanAnnotation](D2/P2/BeanAnnotation) — Spring annotation demo
