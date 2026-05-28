@@ -29,9 +29,9 @@ This file provides a quick folder-level map of the repository and links to the m
 
 ## Postman files
 
-- [User Movie Service](User%20Movie%20Service.postman_collection.json)
-- [User Authentication Service](User%20Authentication%20Service.postman_collection.json)
-- [Student Api](Student%20Api.postman_collection.json)
-- [Cricket Platform API](Cricket%20Platform%20API.postman_collection.json)
-- [Local Microservices Environment](Local%20Microservices.postman_environment.json)
-- [Local Development Environment](Local%20Development.postman_environment.json)
+- [User Movie Service](Postman%20testing/User%20Movie%20Service.postman_collection.json)
+- [User Authentication Service](Postman%20testing/User%20Authentication%20Service.postman_collection.json)
+- [Student Api](Postman%20testing/Student%20Api.postman_collection.json)
+- [Cricket Platform API](Postman%20testing/Cricket%20Platform%20API.postman_collection.json)
+- [Local Microservices Environment](Postman%20testing/Environments/Local%20Microservices.postman_environment.json)
+- [Local Development Environment](Postman%20testing/Environments/Local%20Development.postman_environment.json)

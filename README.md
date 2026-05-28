@@ -69,14 +69,17 @@ Use these direct folder links to open the most important training projects quick
 
 ## Postman collections
 
-The following Postman exports are included in the repository root:
+Postman collections and environment exports are stored in the `Postman testing/` folder.
 
-- [User Movie Service](User%20Movie%20Service.postman_collection.json)
-- [User Authentication Service](User%20Authentication%20Service.postman_collection.json)
-- [Student Api](Student%20Api.postman_collection.json)
-- [Cricket Platform API](Cricket%20Platform%20API.postman_collection.json)
-- [Local Microservices Environment](Local%20Microservices.postman_environment.json)
-- [Local Development Environment](Local%20Development.postman_environment.json)
+- [User Movie Service](Postman%20testing/User%20Movie%20Service.postman_collection.json)
+- [User Authentication Service](Postman%20testing/User%20Authentication%20Service.postman_collection.json)
+- [Student Api](Postman%20testing/Student%20Api.postman_collection.json)
+- [Cricket Platform API](Postman%20testing/Cricket%20Platform%20API.postman_collection.json)
+
+Environment files (for importing into Postman Environments) are in `Postman testing/Environments/`:
+
+- [Local Microservices Environment](Postman%20testing/Environments/Local%20Microservices.postman_environment.json)
+- [Local Development Environment](Postman%20testing/Environments/Local%20Development.postman_environment.json)
 
 Import these JSON files into Postman to replay the CRUD tests and microservice scenarios used during the training.
 
